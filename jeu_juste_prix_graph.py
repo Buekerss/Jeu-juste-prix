@@ -12,6 +12,7 @@ __status__ = "Production"
 # importation des bibliotheques
 import random
 import time
+import tkinter
 
 if __name__ == "__main__":
     # Message de Bienvenue
@@ -55,7 +56,6 @@ if __name__ == "__main__":
             break
 
 #-----------------------------{ TKinter }--------------------------------#
-
 
 # Creer la fenetre
 WINDOW1 = Tk()
